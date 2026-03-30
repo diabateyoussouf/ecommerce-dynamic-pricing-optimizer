@@ -7,3 +7,6 @@ Produit Élastique : le prix augemente de 1€, les ventes chutent de 50% (ex: u
 
 Produit Inélastique : le prix augmente de 5€, les gens achètent toujours autant (ex: l'essence ou un médicament précis).
 <img width="2000" height="2000" alt="image" src="https://github.com/user-attachments/assets/85c86f8f-12b6-49f7-a93f-a50e09b86193" />
+
+## 3. La problématique:
+Si je change mon prix de X, combien vais-je vendre de Y, et combien de profit va-t-il me rester à la fin ?????????
