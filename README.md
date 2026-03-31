@@ -26,6 +26,8 @@ Le simulateur répond mathématiquement à la question que tout e-commerçant se
 * **Tableau de Bord Interactif :** Une interface web fluide développée avec Streamlit pour une utilisation métier simplifiée et visuelle.
   <img width="1859" height="967" alt="Capture d’écran du 2026-03-31 16-10-33" src="https://github.com/user-attachments/assets/9ad7b4c4-b9a0-4a85-b40e-ccdc15f9daa9" />
 
+  ### lien : https://ecommerce-dynamic-pricing-optimizer.streamlit.app/
+
 
 ## ⚙️ Architecture Machine Learning
 Le cœur du projet repose sur un algorithme **LightGBM** optimisé, choisi pour sa performance exceptionnelle sur les données tabulaires de taille moyenne.
