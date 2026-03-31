@@ -12,9 +12,9 @@ Produit Inélastique : le prix augmente de 5€, les gens achètent toujours aut
 Si je change mon prix de X, combien vais-je vendre de Y, et combien de profit va-t-il me rester à la fin ?????????
 
 
-# 🛒 Retail Demand Forecasting & Price Optimization
+# Retail Demand Forecasting & Price Optimization
 
-## 📖 Contexte du Projet
+## Contexte du Projet
 Dans un secteur du retail hautement concurrentiel, fixer le bon prix est crucial. Ce projet déploie un modèle de Machine Learning capable de prédire le volume des ventes (demande) d'un produit en fonction de son prix, de la saisonnalité et de la pression concurrentielle. 
 
 
