@@ -44,4 +44,4 @@ Le cœur du projet repose sur un algorithme **LightGBM** optimisé, choisi pour 
 
 1. Clonez ce dépôt :
    ```bash
-   git clone [https://github.com/ton-profil/retail-forecasting.git](https://github.com/ton-profil/retail-forecasting.git)
+   git clone https://github.com/diabateyoussouf/ecommerce-dynamic-pricing-optimizer.git
