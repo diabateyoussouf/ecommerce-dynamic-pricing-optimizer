@@ -24,6 +24,8 @@ Le simulateur répond mathématiquement à la question que tout e-commerçant se
 * **Simulation de Prix :** Entrez un prix cible et découvrez immédiatement l'impact estimé sur les volumes de ventes.
 * **Analyse Concurrentielle :** Calcul automatique de votre positionnement par rapport à vos 3 concurrents principaux (ratios de prix et différences directes).
 * **Tableau de Bord Interactif :** Une interface web fluide développée avec Streamlit pour une utilisation métier simplifiée et visuelle.
+  <img width="1859" height="967" alt="Capture d’écran du 2026-03-31 16-10-33" src="https://github.com/user-attachments/assets/9ad7b4c4-b9a0-4a85-b40e-ccdc15f9daa9" />
+
 
 ## ⚙️ Architecture Machine Learning
 Le cœur du projet repose sur un algorithme **LightGBM** optimisé, choisi pour sa performance exceptionnelle sur les données tabulaires de taille moyenne.
